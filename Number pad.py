@@ -2,7 +2,7 @@ from tkinter import *
 
 root = Tk()
 root.title('Number Pad')
-root.geometry('250 x 300')
+root.geometry('250x300')
 
 nums = [[9, 8, 7], [6, 5, 4], [3, 2, 1], ['#', 0, '*']]
 
