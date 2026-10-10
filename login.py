@@ -6,7 +6,7 @@ root.geometry('400x400')
 
 frame = Frame(master = root, height = 200, width = 360, bg = '#d0efff')
 
-lbl1 = Label(frame, text = "Full name", bg = '#3895D3', fg = ' white', width = 12)
+lbl1 = Label(frame, text = "Full name", bg = '#3895D3', fg = 'white', width = 12)
 lbl2 = Label(frame, text = "Email ID", bg = '#3895D3', fg = 'white', width = 12)
 lbl3 = Label(frame, text = "password", bg = '#3895D3',fg = 'white', width = 12)
 
